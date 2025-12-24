@@ -1,6 +1,6 @@
 Predict Fraudulent Credit Card Transactions with the help of machine learning models.
 
-In this project, you will analyse customer-level data that has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group. 
+In this project, We will analyse customer-level data that has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group. 
 
  
 
